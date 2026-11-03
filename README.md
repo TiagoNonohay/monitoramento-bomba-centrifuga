@@ -1,5 +1,7 @@
 # Monitoramento de Bomba Centrífuga — Telemetria Inicial
 
+![Gráfico de Vibração](monitoramento_vibracao.png)
+
 ## Objetivo do Projeto
 Estudo de sinais industriais e fundamentos de Manutenção Preditiva aplicados a ativos rotativos (bomba centrífuga), visando a transição de dados brutos para análise de integridade mecânica e operacional.
 
