@@ -10,6 +10,9 @@ Estudo de sinais industriais e fundamentos de Manutenção Preditiva aplicados a
 - **`vibracao_mms_rms`**: Velocidade de vibração (mm/s RMS).
 - **`pressao_bar`**: Pressão de descarga/processo (bar).
 - **`estado`**: Estado operacional do ativo (`RUNNING` / `STOPPED`).
+**<img width="986" height="788" alt="image" src="https://github.com/user-attachments/assets/d2e59098-1b1a-405d-a2b0-7b69cbf852c8" />
+**
+
 
 ## Hipóteses Iniciais
 1. Variações temporárias de vibração e temperatura durante o ciclo `RUNNING` podem indicar oscilações na carga do processo ou perturbações transitórias.
